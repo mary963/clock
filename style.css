@@ -1,0 +1,13 @@
+#clock{
+    font-size: 100px; 
+}
+body{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 250px; 
+}
+button{
+    padding: 15px;
+    border-color: black;
+    border-radius: 5px;
+}
